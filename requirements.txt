@@ -1,0 +1,4 @@
+pyyaml
+requests
+numpy
+web3
